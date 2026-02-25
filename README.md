@@ -20,6 +20,6 @@ F1 Enthusiast: Dedicated fan of Ferrari and Red Bull Racing.
 Gamer: Competitive BGMI player.
 
 📬 Connect with Me
-LinkedIn: lakshya-patel-ai 
-GitHub: Scary-Op 
+LinkedIn: www.linkedin.com/in/lakshya-patel-ai
+GitHub: https://github.com/Scary-0p 
 Email: lakshyap860@gmail.com**
