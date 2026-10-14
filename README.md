@@ -1,7 +1,7 @@
 **🏎️ Lakshya Patel | 
 Software Engineer & AI Enthusiast 
 
-Third-year B.Tech Computer Science student at Lakshmi Narayan College of Technology with a focus on building modular, scalable software and a deep interest in the intersection of Data Science and Formula 1.
+Final-year B.Tech Computer Science student at Lakshmi Narayan College of Technology with a focus on building modular, scalable software and a deep interest in the intersection of Data Science and Formula 1.
 
 🛠️ Technical Toolkit
 Languages: C++, Python, JavaScript 
